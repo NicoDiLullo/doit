@@ -1,0 +1,27 @@
+.todo-container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .todo-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .todo-checkbox {
+    margin-right: 10px;
+  }
+  
+  .subtodo-list {
+    margin-left: 20px;
+  }
+  
+  .add-subtodo-btn {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .remove-subtodo-btn {
+    margin-left: 10px;
+    cursor: pointer;
+  }
